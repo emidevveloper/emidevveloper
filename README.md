@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Emidev
 
-<h1> Hola, soy Emidev <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTll45xWoV2LTnIYt0j8oyoyvy3_bDGWprjBQ&s" widht="100" height="100"></h1>
+<h1> Hola, soy Emidev <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTll45xWoV2LTnIYt0j8oyoyvy3_bDGWprjBQ&s" widht="50" height="50"></h1>
 
 
 <!--
