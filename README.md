@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Emidev </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
-<p align="center"> <strong> Se que estas viendo mi readme y sí, es una basura. Pero estaré trabajando en él para mejorarlo. </strong> </p>
+<p align="center"> <strong> Se que estas viendo mi readme y sí, es una basura, pero estaré trabajando en él para mejorarlo. </strong> </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;I+Love+open source3"></a>
 </p>
