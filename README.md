@@ -139,7 +139,7 @@
 <br>
 
 <li>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  emidevdeveloper@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
