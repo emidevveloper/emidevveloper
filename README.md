@@ -1,15 +1,31 @@
-
 <h1 align="center"><b>Hi , I'm Emidev </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 <p align="center"> <strong> Se que estas viendo mi readme y sí, es una basura, pero estaré trabajando en él para mejorarlo. </strong> </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;I+Love+open source3"></a>
-</p>
 
 
 <br>
+<h2 align="center"> ¿Quién Soy? </h2>
+<br>
 
+<p align="center">
+	Soy un <strong> Desarrollador <strong> que recien entra al mundo de Github, pero también soy un <strong> CREADOR DE CONTENIDO <strong> retirado 
+	temporalmente de YouTube. Tengo habilidades polifacéticas en áreas como la programación general en lemguajes como Lua, Python, html, css 
+        (intermedio) y Javascript (no he usado esta tecnología, pero sí estoy aprendiendo de ella). No solo destaco por abarcar esta amplía de 
+        conocimientos y tecnologías, sino que también me he especializado en crear contenido y diseñar, aunque la parte del diseño está siendo la habilidad 
+	más difícil de aprender para mí, por ahora estoy priorizando mi aprendizaje tanto en la música como las tecnologías que me faltan aprender.
+	Y sé que parece innecesario estar con múltiples aprendizajes, pero es que yo soy de los que quieren seguir aprendiendo. 
+	Ahora bien que sabes esto de mí, debes conocer un poco de mis gustos informáticos.
+</p>
 
-
+<h3 align="center"> ¿Qué te gusta más? </h3>
+<ol align="center">
+	<li> Fiolosofía de software preferida: Open Source/código abierto ❤️</li>
+	<li> Sistema operativo preferido: Windows 11 🪟, aunque poco a poco estoy por preferir Gnu/Linux🐧 </li>
+	<li> Área favorita: Crear contenido, ya que ayuda a expresar toda tu creatividad a una audiencia que trabajar en código 📽️ </li>
+	<li> Área favorita en programación web: Área de backend </li>
+	<li> Lo que me gustaría llegar hacer: Un videojuego completo, pero requiere un enfoque polifácetico completo de habilidades que no tengo por ahora... </li>
+</ol>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -44,7 +60,7 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 
 <br>
 
