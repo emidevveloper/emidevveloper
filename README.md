@@ -100,6 +100,9 @@ Aunque, la parte del diseño todavía es algo que tengo que aprender y pulir. Pa
 
 <br>
 
+<h2 style="text-align: center; background-color: black; color: white;" > Proyectos </h2>
+<br>
+<p> Por ahora no hay proyectos personales públicos... algunos en los que trabajo están en repositorios privados... </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
