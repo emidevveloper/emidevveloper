@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;I+Love+open source3"></a>
 
-![profile](https://github.com/emidevveloper/emidevveloper/blob/8e3ac0711d77f627d82472ad61a1dbd28e456434/profile.png)
+<img src="" alt="Mi imagen" width="200" height="200"/>
 
 <br>
 <h2 align="center"> ¿Quién Soy? </h2>
