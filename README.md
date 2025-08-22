@@ -67,9 +67,12 @@ Aunque, la parte del diseño todavía es algo que tengo que aprender y pulir. Pa
 <br>
 
 - **Back-End Development**:
+  
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  
+
+<br>
+
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
